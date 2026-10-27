@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Intelligence Platform",
+  "description": "Executive-grade clinical intelligence interface featuring real-time biometric telemetry, predictive triage, multi-channel waveforms, and algorithmic diagnostic recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
